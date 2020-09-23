@@ -1,16 +1,20 @@
-### Hi there 👋
+### Howdy! 👋👩‍💻
+I'm Ruth (she/her), a software engineer who lives and works in Denver, CO.
 
-<!--
-**rupol/rupol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 
+I’m currently learning Python and continuing to sharpen my skills in PHP, JS, Node and React. If you need any CSS advice, I've got that pretty well sorted at this point.
 
-Here are some ideas to get you started:
+👯 
+I’m looking to collaborate on environment and education projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔
+I'm new to the tech industry, so any advice or mentorship (big of small) is much appreciated!
+
+💬
+Ask me about beans. How to make them, how to grow them. I'm usually thinking about beans.
+
+📫
+How to reach me: email or on twitter usually has your best shot of reaching me.
+
+👩‍🌾
+Aside from web dev, I am a master gardener with a background in ecology. I can usually be found tooling around my backyard garden shooing my chickens out of the strawberry patch.
