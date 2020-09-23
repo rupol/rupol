@@ -11,7 +11,7 @@ I’m looking to collaborate on environment and education projects.
 I'm new to the tech industry, so any advice or mentorship (big of small) is much appreciated!
 
 💬
-Ask me about beans. How to make them, how to grow them. I'm usually thinking about beans.
+Ask me about beans. How to grow them, how to make them, how to eat them. I'm usually thinking about beans.
 
 📫
 How to reach me: email or on twitter usually has your best shot of reaching me.
