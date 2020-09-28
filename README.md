@@ -2,15 +2,14 @@
 I'm Ruth (she/her), a software engineer who lives and works in Denver, CO.
 
 🌱
-I’m currently learning Python and continuing to sharpen my skills in PHP, JS, Node and React. If you need any CSS advice, I've got that pretty well sorted at this point.
-
+I’m currently learning Python and continuing to sharpen my skills in PHP, JS, Node and React.
 
 👯
-I’m looking to collaborate on environment and education projects.
+I’m looking to collaborate on projects in environment and education.
 
 
 🤔
-I'm new to the tech industry, so any advice or mentorship (big of small) is much appreciated!
+I'm new to the tech industry, so any advice or mentorship (big or small) is much appreciated!
 
 
 💬
@@ -18,7 +17,7 @@ Ask me about beans. How to grow them, how to make them, how to eat them. I'm usu
 
 
 📫
-How to reach me: email me or reach out on twitter!
+How to reach me: [email me](mailto:rpoliakon@gmail.com) or reach out on [twitter](https://twitter.com/ruthpoliakon)!
 
 
 👩‍🌾
