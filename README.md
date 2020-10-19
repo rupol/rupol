@@ -21,4 +21,4 @@ How to reach me: [email me](mailto:rpoliakon@gmail.com) or reach out on [twitter
 
 
 👩‍🌾
-Aside from web dev, I am a master gardener with a background in ecology. I can usually be found tooling around my backyard garden shooing my chickens out of the strawberry patch. Send me pictures of any weird bugs you find, I was an entomology lab tech for a while, so I am pretty good at insect ID. 🐛
+Aside from web development, I am a master gardener with a background in ecology. I can usually be found tooling around my backyard garden shooing my chickens out of the strawberry patch. Send me pictures of any weird bugs you find, I was an entomology lab tech for a while, so I am pretty good at insect ID. 🐛
