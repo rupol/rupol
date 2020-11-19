@@ -5,7 +5,7 @@ I'm Ruth (she/her), a software engineer who lives and works (remotely) in Denver
 I’m currently learning Python and continuing to sharpen my skills in PHP, JavaScript, Node and React.
 
 👯
-I’m looking to collaborate on projects in environment and education.
+I’m on the hunt for full-time remote or Denver-area opportunities in and education. I'd also love to collaborate on any projects in these areas, so reach out!
 
 
 🤔
