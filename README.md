@@ -1,15 +1,15 @@
 ### Howdy! 👋👩‍💻
-I'm Ruth (she/her), a software engineer who lives and works (remotely) in Denver, CO.
+I'm Ruth (she/her), a software engineer who lives and works in Denver, CO. Currently at segment.
 
 🌱
-I’m currently learning Python and continuing to sharpen my skills in PHP, JavaScript, Node and React.
+I’m continuing to learn Python and sharpen my skills in PHP, JavaScript, Node and React.
 
 👯
-I’m on the hunt for full-time remote or Denver-area opportunities in and education. I'd also love to collaborate on any projects in these areas, so reach out!
+I'd also love to collaborate on any projects in education and environment, so reach out!
 
 
 🤔
-I'm new to the tech industry, so any advice or mentorship (big or small) is much appreciated!
+I'm still new to the tech industry, so any advice or mentorship (big or small) is much appreciated!
 
 
 💬
